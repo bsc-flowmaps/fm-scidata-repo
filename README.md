@@ -25,17 +25,17 @@
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
 
-[flowmaps-hub-link]:                        https://github.com/flowmaps-data
-[flowmaps-data-link]:                       https://github.com/flowmaps-data/flowmaps-data
+[flowmaps-hub-link]:                        https://github.com/bsc-flowmaps
+[flowmaps-data-link]:                       https://github.com/bsc-flowmaps/flowmaps-data
 
-[fm-submission-link]:                       https://github.com/flowmaps-data/fm-scidata-repo
+[fm-submission-link]:                       https://github.com/bsc-flowmaps/fm-scidata-repo
 
-[fm-hourly-mobility-link]:                  https://github.com/flowmaps-data/fm-hourly-mobility
-[fm-daily-mobility-link]:                   https://github.com/flowmaps-data/fm-daily-mobility
-[fm-covid-19-link]:                         https://github.com/flowmaps-data/fm-covid-19
-[fm-layers-link]:                           https://github.com/flowmaps-data/fm-layers
-[fm-mobility-associated-risk-link]:         https://github.com/flowmaps-data/fm-mobility-associated-risk
-[fm-population-link]:                       https://github.com/flowmaps-data/fm-population
+[fm-hourly-mobility-link]:                  https://github.com/bsc-flowmaps/fm-hourly-mobility
+[fm-daily-mobility-link]:                   https://github.com/bsc-flowmaps/fm-daily-mobility
+[fm-covid-19-link]:                         https://github.com/bsc-flowmaps/fm-covid-19
+[fm-layers-link]:                           https://github.com/bsc-flowmaps/fm-layers
+[fm-mobility-associated-risk-link]:         https://github.com/bsc-flowmaps/fm-mobility-associated-risk
+[fm-population-link]:                       https://github.com/bsc-flowmaps/fm-population
 
 [fm-mov-loader-link]:                       https://gitlab.bsc.es/flowmaps/mov_loader
 [fm-rest-api-link]:                         https://gitlab.bsc.es/flowmaps/flowmaps-rest-api

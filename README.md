@@ -7,12 +7,12 @@
 | **Submission**                                                                     |                                                                           |
 | [fm-submission][fm-submission-link]                                                | COVID-19 Flow-Maps submission 
 | **Data Records**                                                                   |
-| [fm-hourly-mobility][fm-hourly-mobility-link]                                      | Hourly Origin-Destination mobility data from MITMA                        |
-| [fm-daily-mobility][fm-daily-mobility-link]                                        | Daily Origin-Destination mobility data from MITMA                         |
-| [fm-covid-19][fm-covid-19-link]                                                    | COVID-19 data for Spain reported at different spatial resolution          |
-| [fm-layers][fm-layers-link]                                                        | Geographic layers on which data records are geo-referenced                |
-| [fm-mobility-associated-risk][fm-mobility-associated-risk-link]                    | Daily Mobility Associated Risk networks                                   |
-| [fm-population][fm-population-link]                                                | Daily population records reported at different spatial resolution         |
+| [fm-hourly-mobility][fm-hourly-mobility-link]                                      | Data: Hourly Origin-Destination mobility data from MITMA                        |
+| [fm-daily-mobility][fm-daily-mobility-link]                                        | Data: Daily Origin-Destination mobility data from MITMA                         |
+| [fm-covid-19][fm-covid-19-link]                                                    | Data: COVID-19 data for Spain reported at different spatial resolution          |
+| [fm-layers][fm-layers-link]                                                        | Data: Geographic layers on which data records are geo-referenced                |
+| [fm-mobility-associated-risk][fm-mobility-associated-risk-link]                    | Data: Daily Mobility Associated Risk networks                                   |
+| [fm-population][fm-population-link]                                                | Data: Daily population records reported at different spatial resolution         |
 | **Backend**                                                                        |
 | (GitLab) [fm-mov-loader][fm-mov-loader-link]                                       | Package to create and populate a MongoDB                                  |
 | (GitLab) [fm-rest-api][fm-rest-api-link]                                           | REST API that give access to all collections stored Flow-Maps DB          |

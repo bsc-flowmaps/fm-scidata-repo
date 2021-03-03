@@ -16,6 +16,7 @@
 | **Backend**                                                                        |
 | (GitLab) [fm-mov-loader][fm-mov-loader-link]                                       | Package to create and populate a MongoDB                                  |
 | (GitLab) [fm-rest-api][fm-rest-api-link]                                           | REST API that give access to all collections stored Flow-Maps DB          |
+| (GitLab) [fm-scripts][fm-scripts-link]                                             | ETL scripts used to process and consolidate the data                      |
 | **Frontend**                                                                       |
 | [fm-flowboard-boards][fm-flowboard-web-link]                                       | Visualization of scientific benchmarking results                          |
 
@@ -39,5 +40,6 @@
 
 [fm-mov-loader-link]:                       https://gitlab.bsc.es/flowmaps/mov_loader
 [fm-rest-api-link]:                         https://gitlab.bsc.es/flowmaps/flowmaps-rest-api
+[fm-scripts-link]:                          https://gitlab.bsc.es/flowmaps/flowmaps-scripts
 
 [fm-flowboard-web-link]:                    https://flowmaps.life.bsc.es/flowboard/
